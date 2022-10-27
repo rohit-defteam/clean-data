@@ -1,0 +1,5 @@
+1. Remove Null Values and store in Junk DF
+2. Email Validation
+3. Name column should be splitted in First Name and Last Name
+4. Validation of Gender column
+5. Spliiting dates in Year, month, day, and quarter column
